@@ -27,9 +27,9 @@ Nesne Tabanlı Programlama (YMH219) dersi kapsamında geliştirilen, Windows For
 - `Form1`: oyun döngüsü (Timer) ve klavye olayları
 
 ## Ekran Görüntüleri
-![Başlangıç](screenshots/oyun1.png)
-![Oyun](screenshots/oyun2.png)
-![Game Over](screenshots/gameover.png)
+![Başlangıç](YMH219-FlappyBird/screenshots/oyun1.png)
+![Oyun](YMH219-FlappyBird/screenshots/oyun2.png)
+![Game Over](YMH219-FlappyBird/screenshots/gameover.png)
 
 ## Bilinen Sınırlamalar
 - En yüksek skor dosyada saklanmıyor, program kapanınca sıfırlanır.
