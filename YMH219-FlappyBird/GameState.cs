@@ -17,6 +17,7 @@ public class GameState
 
     public void GameOver()
     {
+
         IsRunning = false;
         IsGameOver = true;
     }
